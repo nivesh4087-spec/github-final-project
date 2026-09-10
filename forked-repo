@@ -1,0 +1,8 @@
+curl https://api.github.com/repos/nivesh4087-spec/simple-interest-calculator
+
+{
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
